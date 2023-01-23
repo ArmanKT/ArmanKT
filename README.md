@@ -3,8 +3,7 @@
 
 ## I'm a Learner!!
 
-- 🔭 I’m currently working on 1 Mobile App Project and 1 Web Project
-- 🌱 I’m currently learning App & Backend Development
+- 🔭 I’m currently working on 2 Mobile App Project and 1 Web Project
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Something
