@@ -43,7 +43,7 @@ Passionate about creating **fintech, e-commerce, ride-sharing, and SaaS solution
 ---
 
 ## 📈 Career Highlights  
-- Delivered **8+ production-ready mobile apps** across fintech, e-commerce, and ride-sharing industries  
+- Delivered **15+ production-ready mobile apps** across fintech, e-commerce, and ride-sharing industries  
 - Reduced deployment time by **25%** through CI/CD pipeline automation  
 - Mentored and guided **5+ junior developers**, boosting team productivity  
 - Recognized as **Employee of the Month (x2)** for high-impact project delivery  
