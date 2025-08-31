@@ -22,7 +22,7 @@ Passionate about creating **fintech, e-commerce, ride-sharing, and SaaS solution
 `Dart` · `Java` · `Kotlin` · `PHP` · `SQL`  
 
 **Frameworks & Technologies**  
-`Flutter` · `Firebase` · `REST APIs` · `GraphQL` · `Bloc` · `Provider` · `GetX` · `Dio` · `SQLite` · `Hive` · `WebSocket` · `Android SDK` · `iOS SDK`  
+`Flutter` · `Firebase` · `REST APIs` · `GraphQL` · `Bloc` · `Provider` · `GetX` · `Dio` · `SQLite` · `Hive` · `WebSocket` · `Android SDK` · `iOS SDK` · `Laravel`  
 
 **Tools & Practices**  
 `Git` · `GitHub` · `Postman` · `VS Code` · `Android Studio` · `Xcode` · `Figma` · `Slack` · `Jira` · `CI/CD` · `Agile` · `OOP` · `SOLID Principles`  
