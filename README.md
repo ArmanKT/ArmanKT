@@ -43,10 +43,9 @@ Passionate about creating **fintech, e-commerce, ride-sharing, and SaaS solution
 ---
 
 ## 📈 Career Highlights  
-- Delivered **15+ production-ready mobile apps** across fintech, e-commerce, and ride-sharing industries  
-- Reduced deployment time by **25%** through CI/CD pipeline automation  
-- Mentored and guided **5+ junior developers**, boosting team productivity  
-- Recognized as **Employee of the Month (x2)** for high-impact project delivery  
+- Delivered **15+ production-ready mobile applications** across fintech, e-commerce, ride-sharing, crypto, SaaS, and other technology domains, ensuring scalable performance and excellent user experiences.  
+- Mentored and guided junior developers through code reviews and knowledge-sharing, enhancing team productivity and code quality.  
+- Recognized as **Employee of the Month (x2)** for delivering high-impact Flutter projects ahead of deadlines.  
 
 ---
 
